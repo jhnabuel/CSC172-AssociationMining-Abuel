@@ -2,7 +2,7 @@
 **Student:** John Christian Niño T. Abuel, 2022-0423
 **Date:** December 13, 2025  
 **Repository:** [https://github.com/jhnabuel/CSC172-AssociationMining-Abuel](https://github.com/jhnabuel/CSC172-AssociationMining-Abuel)  
-**Commits Since Proposal:** 5 | **Last Commit:** December 14, 2025 (1:17 PM)
+**Commits Since Proposal:** 7 | **Last Commit:** December 14, 2025 (1:49 AM)
 
 ## 📊 Current Status
 | Milestone | Status | Notes |
