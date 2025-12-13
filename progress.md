@@ -10,8 +10,8 @@
 |Initial Data Exploration and Analysis | ✅✅✅Done | Finished binning depth, magnitude, location, and time. | 
 | Exploratory Data Analysis | ✅ Done | Provided data visualization for binned data. |
 | Transaction Design & Feature Engineering | ✅ Done | Finalized Binning strategy. |
-| Preprocessing|  Not Started| Not started |
-| Association Rule Mining Implementation | ⏳ Not Started | Planned for Dec 14 |
+| Preprocessing| ✅  Done| Successfully one-hot encoded categorical features|
+| Association Rule Mining Implementation | ✅  Done | Apriori algorithm applied. |
 | Rule Filtering & Evaluation | ⏳ Not Started | Planned for Dec 15|
 | Interpretation and Visualization | ⏳ Not Started | Planned for Dec 15
 
