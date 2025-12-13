@@ -8,7 +8,7 @@
 | Milestone | Status | Notes |
 |-----------|--------|-------|
 |Initial Data Exploration and Analysis | ✅✅✅Done | Finished binning depth, magnitude, location, and time. | 
-| Exploratory Data Analysis | ✅ Done | Finalized columns to include and binning strategy |
+| Exploratory Data Analysis | ✅ Done | Adjusted bin strategy |
 | Transaction Design & Feature Engineering | ⏳ Not Started | [TBA] binned features |
 | Preprocessing| ⏳ Not Started| Not started |
 | Association Rule Mining Implementation | ⏳ Not Started | Planned for Dec 14 |
