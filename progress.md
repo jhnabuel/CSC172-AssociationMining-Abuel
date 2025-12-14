@@ -2,7 +2,7 @@
 **Student:** John Christian Niño T. Abuel, 2022-0423
 **Date:** December 13, 2025  
 **Repository:** [https://github.com/jhnabuel/CSC172-AssociationMining-Abuel](https://github.com/jhnabuel/CSC172-AssociationMining-Abuel)  
-**Commits Since Proposal:** 7 | **Last Commit:** December 14, 2025 (4:48 pPM)
+**Commits Since Proposal:** 7 | **Last Commit:** December 15, 2025 (12:02 AM)
 
 ## 📊 Current Status
 | Milestone | Status | Notes |
@@ -12,8 +12,8 @@
 | Transaction Design & Feature Engineering | ✅ Done | Finalized Binning strategy. |
 | Preprocessing| ✅  Done| Successfully one-hot encoded categorical features|
 | Association Rule Mining Implementation | ✅  Done | Apriori algorithm applied. |
-| Rule Filtering & Evaluation | ✅  Done | Fetched top 500 rules for PH earthquake 2019 - 2025|
-| Interpretation and Visualization | ⏳ Not Started | Planned for Dec 15
+| Rule Filtering & Evaluation | ✅  Done | Fetched top 80 rules for PH earthquake 2019 - 2025|
+| Interpretation and Visualization | ⏳ Started, initial data visualization and  | Planned for Dec 15 |
 
 ## 1. Dataset Progress
 
@@ -21,14 +21,10 @@
 ![Dataset Sample]()
 
 ## 2. ARM Implementation Progress
-To be implemented
+Done. Another ARM is going to be implemented for major earthquakes
 
 ## 3. Challenges Encountered & Solutions (TO BE EDITED)
 | Issue | Status | Resolution |
 |-------|--------|------------|
+|Too many weak rules| Resolved | Limited threshold to 1.1|
 
-| Class imbalance | ⏳ Ongoing | Added class weights to loss function |
-
-
-## 4. Next Steps [TO BE EDITED] (Before Final Submission) 
-- [ ] Complete training (50 more epochs)
