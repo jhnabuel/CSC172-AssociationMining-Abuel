@@ -2,7 +2,7 @@
 **Student:** John Christian Niño T. Abuel, 2022-0423
 **Date:** December 15, 2025  
 **Repository:** [https://github.com/jhnabuel/CSC172-AssociationMining-Abuel](https://github.com/jhnabuel/CSC172-AssociationMining-Abuel)  
-**Commits Since Proposal:** 11 | **Last Commit:** December 15, 2025 (1:06 AM)
+**Commits Since Proposal:** 12 | **Last Commit:** December 15, 2025 (1:52 AM)
 
 ## 📊 Current Status
 | Milestone | Status | Notes |
@@ -21,8 +21,7 @@
 ![Dataset Sample]()
 
 ## 2. ARM Implementation Progress
-Done. Another ARM is going to be implemented for major earthquakes
-
+Done. Another ARM is going to be implemented for major earthquake
 ## 3. Challenges Encountered & Solutions (TO BE EDITED)
 | Issue | Status | Resolution |
 |-------|--------|------------|
