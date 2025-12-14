@@ -2,7 +2,7 @@
 **Student:** John Christian Niño T. Abuel, 2022-0423
 **Date:** December 13, 2025  
 **Repository:** [https://github.com/jhnabuel/CSC172-AssociationMining-Abuel](https://github.com/jhnabuel/CSC172-AssociationMining-Abuel)  
-**Commits Since Proposal:** 7 | **Last Commit:** December 14, 2025 (1:49 AM)
+**Commits Since Proposal:** 7 | **Last Commit:** December 14, 2025 (4:48 pPM)
 
 ## 📊 Current Status
 | Milestone | Status | Notes |
@@ -12,7 +12,7 @@
 | Transaction Design & Feature Engineering | ✅ Done | Finalized Binning strategy. |
 | Preprocessing| ✅  Done| Successfully one-hot encoded categorical features|
 | Association Rule Mining Implementation | ✅  Done | Apriori algorithm applied. |
-| Rule Filtering & Evaluation | ⏳ Not Started | Planned for Dec 15|
+| Rule Filtering & Evaluation | ✅  Done | Fetched top 500 rules for PH earthquake 2019 - 2025|
 | Interpretation and Visualization | ⏳ Not Started | Planned for Dec 15
 
 ## 1. Dataset Progress
