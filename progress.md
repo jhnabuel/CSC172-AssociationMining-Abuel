@@ -1,8 +1,8 @@
 # CSC172 Association Rule Mining Project
 **Student:** John Christian Niño T. Abuel, 2022-0423
-**Date:** December 13, 2025  
+**Date:** December 15, 2025  
 **Repository:** [https://github.com/jhnabuel/CSC172-AssociationMining-Abuel](https://github.com/jhnabuel/CSC172-AssociationMining-Abuel)  
-**Commits Since Proposal:** 9 | **Last Commit:** December 15, 2025 (12:28 AM)
+**Commits Since Proposal:** 11 | **Last Commit:** December 15, 2025 (1:06 AM)
 
 ## 📊 Current Status
 | Milestone | Status | Notes |
@@ -13,7 +13,7 @@
 | Preprocessing| ✅  Done| Successfully one-hot encoded categorical features|
 | Association Rule Mining Implementation | ✅  Done | Apriori algorithm applied. |
 | Rule Filtering & Evaluation | ✅  Done | Fetched top 80 rules for PH earthquake 2019 - 2025|
-| Interpretation and Visualization | ⏳ Started, initial data visualization and  | Planned for Dec 15 |
+| Interpretation and Visualization | ⏳ Started, initial data visualization and analysis | Planned for Dec 15 |
 
 ## 1. Dataset Progress
 
