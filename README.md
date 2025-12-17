@@ -1,5 +1,6 @@
 # Association Rule Mining on Philippine Earthquake Clusters (2019-2025)
-**CSC172 Data Mining Final Project** *Mindanao State University - Iligan Institute of Technology* **Student:** John Christian Niño T. Abuel  
+**CSC172 Data Mining Final Project** *Mindanao State University - Iligan Institute of Technology* 
+**Student:** John Christian Niño T. Abuel  
 **Semester:** AY 2025-2026 Sem 1
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue)](https://python.org)
