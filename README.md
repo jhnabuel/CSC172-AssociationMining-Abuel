@@ -22,7 +22,7 @@ The Philippines is a seismically active archipelago, yet standard monitoring oft
 
 ## Introduction
 ### Problem Statement
-Seismic data is often presented as isolated points on a map (hypocenters). While this indicates *where* earthquakes happen, it fails to capture *how* they behave. Does a region experience harmless micro-swarms, or is it statistically prone to destructive high-energy release? Standard statistical analysis often buries rare, high-magnitude events under the noise of thousands of micro-earthquakes, creating a "blind spot" for major hazard detection. This also poses a problem for people that try to settle into an area, where significant seismic activities may affect property/infrastructure development. 
+Seismic data is often presented as isolated points on a map (hypocenters). While this indicates *where* earthquakes happen, it fails to capture *how* they behave. Does a region experience harmless micro-swarms, or is it statistically prone to destructive high-energy release? Standard statistical analysis often buries rare, high-magnitude seismic activity under the noise of thousands of micro-earthquakes, creating a "blind spot" for major hazard detection. This also poses a problem for people that try to settle into an area, where significant seismic activities may affect property/infrastructure development. 
 
 ### Objectives
 - **Bin & Transform:** Convert continuous physics data (Magnitude, Depth, Time) and the location (Province), into categorical "seismic baskets" suitable for rule mining.
